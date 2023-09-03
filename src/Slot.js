@@ -58,7 +58,7 @@ const Slot = ({ app }) => {
     <>
       <Rectangle x={0} y={0} width={screenWidth} height={100} fill={"b8bedd"}>
         <Text
-          text="Slot Demo by LouieC"
+          text="Slot Demo"
           anchor="0.5,0.5"
           x={screenWidth / 2}
           y={100 / 2}
