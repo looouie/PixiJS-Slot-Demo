@@ -5,4 +5,5 @@ Demo link:
 
 https://codesandbox.io/p/github/looouie/PixiJS-Slot-Demo/main
 
-<img src="https://github.com/looouie/PixiJS-Slot-Demo/assets/42802168/f4cf4fd9-010f-425f-bc75-2bc6122da01e" width="500">
+https://github.com/looouie/PixiJS-Slot-Demo/assets/42802168/c5a823db-ec17-47a1-85e8-678026f52ff5
+
